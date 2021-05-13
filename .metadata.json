@@ -1,0 +1,58 @@
+[
+  {
+    "package": "bsub",
+    "oncran": true
+  },
+  {
+    "package": "CePa",
+    "oncran": true
+  },
+  {
+    "package": "circlize",
+    "oncran": true
+  },
+  {
+    "package": "GetoptLong",
+    "oncran": true
+  },
+  {
+    "package": "GlobalOptions",
+    "oncran": true
+  },
+  {
+    "package": "pkgndep",
+    "oncran": true
+  },
+  {
+    "package": "cola",
+    "oncran": true
+  },
+  {
+    "package": "ComplexHeatmap",
+    "oncran": true
+  },
+  {
+    "package": "EnrichedHeatmap",
+    "oncran": true
+  },
+  {
+    "package": "gtrellis",
+    "oncran": true
+  },
+  {
+    "package": "HilbertCurve",
+    "oncran": true
+  },
+  {
+    "package": "InteractiveComplexHeatmap",
+    "oncran": true
+  },
+  {
+    "package": "rGREAT",
+    "oncran": true
+  },
+  {
+    "package": "simplifyEnrichment",
+    "oncran": true
+  }
+]

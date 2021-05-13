@@ -8,82 +8,68 @@
 	url = https://github.com/jokergoo/bsub
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "CePa"]
 	path = CePa
 	url = https://github.com/jokergoo/cepa
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "circlize"]
 	path = circlize
 	url = https://github.com/jokergoo/circlize
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "GetoptLong"]
 	path = GetoptLong
 	url = https://github.com/jokergoo/getoptlong
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "GlobalOptions"]
 	path = GlobalOptions
 	url = https://github.com/jokergoo/globaloptions
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/jokergoo/pkgndep
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cola"]
 	path = cola
 	url = https://github.com/jokergoo/cola
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ComplexHeatmap"]
 	path = ComplexHeatmap
 	url = https://github.com/jokergoo/complexheatmap
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "EnrichedHeatmap"]
 	path = EnrichedHeatmap
 	url = https://github.com/jokergoo/enrichedheatmap
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gtrellis"]
 	path = gtrellis
 	url = https://github.com/jokergoo/gtrellis
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "HilbertCurve"]
 	path = HilbertCurve
 	url = https://github.com/jokergoo/hilbertcurve
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "InteractiveComplexHeatmap"]
 	path = InteractiveComplexHeatmap
 	url = https://github.com/jokergoo/interactivecomplexheatmap
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rGREAT"]
 	path = rGREAT
 	url = https://github.com/jokergoo/rgreat
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "simplifyEnrichment"]
 	path = simplifyEnrichment
 	url = https://github.com/jokergoo/simplifyenrichment
 	shallow = true
 	registered = true
-	oncran = true
