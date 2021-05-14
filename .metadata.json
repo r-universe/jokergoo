@@ -24,35 +24,27 @@
     "oncran": true
   },
   {
-    "package": "cola",
-    "oncran": true
+    "package": "cola"
   },
   {
-    "package": "ComplexHeatmap",
-    "oncran": true
+    "package": "ComplexHeatmap"
   },
   {
-    "package": "EnrichedHeatmap",
-    "oncran": true
+    "package": "EnrichedHeatmap"
   },
   {
-    "package": "gtrellis",
-    "oncran": true
+    "package": "gtrellis"
   },
   {
-    "package": "HilbertCurve",
-    "oncran": true
+    "package": "HilbertCurve"
   },
   {
-    "package": "InteractiveComplexHeatmap",
-    "oncran": true
+    "package": "InteractiveComplexHeatmap"
   },
   {
-    "package": "rGREAT",
-    "oncran": true
+    "package": "rGREAT"
   },
   {
-    "package": "simplifyEnrichment",
-    "oncran": true
+    "package": "simplifyEnrichment"
   }
 ]
