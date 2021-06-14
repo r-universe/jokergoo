@@ -1,8 +1,5 @@
 [
   {
-    "package": "bsub"
-  },
-  {
     "package": "CePa",
     "oncran": true
   },
