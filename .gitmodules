@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bsub"]
+	path = bsub
+	url = https://github.com/jokergoo/bsub
+	shallow = true
+	registered = true
 [submodule "CePa"]
 	path = CePa
 	url = https://github.com/jokergoo/cepa
@@ -26,6 +31,11 @@
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/jokergoo/pkgndep
+	shallow = true
+	registered = true
+[submodule "spiralize"]
+	path = spiralize
+	url = https://github.com/jokergoo/spiralize
 	shallow = true
 	registered = true
 [submodule "cola"]

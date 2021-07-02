@@ -1,5 +1,9 @@
 [
   {
+    "package": "bsub",
+    "oncran": true
+  },
+  {
     "package": "CePa",
     "oncran": true
   },
@@ -17,6 +21,10 @@
   },
   {
     "package": "pkgndep",
+    "oncran": true
+  },
+  {
+    "package": "spiralize",
     "oncran": true
   },
   {
