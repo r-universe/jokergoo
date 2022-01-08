@@ -73,3 +73,8 @@
 	url = https://github.com/jokergoo/rgreat
 	shallow = true
 	registered = true
+[submodule "simplifyEnrichment"]
+	path = simplifyEnrichment
+	url = https://github.com/jokergoo/simplifyenrichment
+	shallow = true
+	registered = true
