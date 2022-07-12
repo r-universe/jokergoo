@@ -26,23 +26,5 @@
   {
     "package": "spiralize",
     "oncran": true
-  },
-  {
-    "package": "cola"
-  },
-  {
-    "package": "ComplexHeatmap"
-  },
-  {
-    "package": "EnrichedHeatmap"
-  },
-  {
-    "package": "gtrellis"
-  },
-  {
-    "package": "HilbertCurve"
-  },
-  {
-    "package": "rGREAT"
   }
 ]

@@ -38,33 +38,3 @@
 	url = https://github.com/jokergoo/spiralize
 	shallow = true
 	registered = true
-[submodule "cola"]
-	path = cola
-	url = https://github.com/jokergoo/cola
-	shallow = true
-	registered = true
-[submodule "ComplexHeatmap"]
-	path = ComplexHeatmap
-	url = https://github.com/jokergoo/complexheatmap
-	shallow = true
-	registered = true
-[submodule "EnrichedHeatmap"]
-	path = EnrichedHeatmap
-	url = https://github.com/jokergoo/enrichedheatmap
-	shallow = true
-	registered = true
-[submodule "gtrellis"]
-	path = gtrellis
-	url = https://github.com/jokergoo/gtrellis
-	shallow = true
-	registered = true
-[submodule "HilbertCurve"]
-	path = HilbertCurve
-	url = https://github.com/jokergoo/hilbertcurve
-	shallow = true
-	registered = true
-[submodule "rGREAT"]
-	path = rGREAT
-	url = https://github.com/jokergoo/rgreat
-	shallow = true
-	registered = true
