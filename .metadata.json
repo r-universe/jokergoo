@@ -43,6 +43,12 @@
     "package": "HilbertCurve"
   },
   {
+    "package": "InteractiveComplexHeatmap"
+  },
+  {
     "package": "rGREAT"
+  },
+  {
+    "package": "simplifyEnrichment"
   }
 ]
