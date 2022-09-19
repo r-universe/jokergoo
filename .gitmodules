@@ -53,18 +53,3 @@
 	url = https://github.com/jokergoo/enrichedheatmap
 	shallow = true
 	registered = true
-[submodule "gtrellis"]
-	path = gtrellis
-	url = https://github.com/jokergoo/gtrellis
-	shallow = true
-	registered = true
-[submodule "HilbertCurve"]
-	path = HilbertCurve
-	url = https://github.com/jokergoo/hilbertcurve
-	shallow = true
-	registered = true
-[submodule "InteractiveComplexHeatmap"]
-	path = InteractiveComplexHeatmap
-	url = https://github.com/jokergoo/interactivecomplexheatmap
-	shallow = true
-	registered = true

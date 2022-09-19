@@ -35,14 +35,5 @@
   },
   {
     "package": "EnrichedHeatmap"
-  },
-  {
-    "package": "gtrellis"
-  },
-  {
-    "package": "HilbertCurve"
-  },
-  {
-    "package": "InteractiveComplexHeatmap"
   }
 ]
