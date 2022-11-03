@@ -34,9 +34,6 @@
     "package": "ComplexHeatmap"
   },
   {
-    "package": "EnrichedHeatmap"
-  },
-  {
     "package": "gtrellis"
   },
   {
@@ -46,9 +43,12 @@
     "package": "InteractiveComplexHeatmap"
   },
   {
+    "package": "simplifyEnrichment"
+  },
+  {
     "package": "rGREAT"
   },
   {
-    "package": "simplifyEnrichment"
+    "package": "EnrichedHeatmap"
   }
 ]

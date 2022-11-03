@@ -48,11 +48,6 @@
 	url = https://github.com/jokergoo/complexheatmap
 	shallow = true
 	registered = true
-[submodule "EnrichedHeatmap"]
-	path = EnrichedHeatmap
-	url = https://github.com/jokergoo/enrichedheatmap
-	shallow = true
-	registered = true
 [submodule "gtrellis"]
 	path = gtrellis
 	url = https://github.com/jokergoo/gtrellis
@@ -68,13 +63,18 @@
 	url = https://github.com/jokergoo/interactivecomplexheatmap
 	shallow = true
 	registered = true
+[submodule "simplifyEnrichment"]
+	path = simplifyEnrichment
+	url = https://github.com/jokergoo/simplifyenrichment
+	shallow = true
+	registered = true
 [submodule "rGREAT"]
 	path = rGREAT
 	url = https://github.com/jokergoo/rgreat
 	shallow = true
 	registered = true
-[submodule "simplifyEnrichment"]
-	path = simplifyEnrichment
-	url = https://github.com/jokergoo/simplifyenrichment
+[submodule "EnrichedHeatmap"]
+	path = EnrichedHeatmap
+	url = https://github.com/jokergoo/enrichedheatmap
 	shallow = true
 	registered = true
