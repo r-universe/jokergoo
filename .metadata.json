@@ -43,10 +43,10 @@
     "package": "InteractiveComplexHeatmap"
   },
   {
-    "package": "simplifyEnrichment"
+    "package": "rGREAT"
   },
   {
-    "package": "rGREAT"
+    "package": "simplifyEnrichment"
   },
   {
     "package": "EnrichedHeatmap"
