@@ -34,6 +34,9 @@
     "package": "ComplexHeatmap"
   },
   {
+    "package": "EnrichedHeatmap"
+  },
+  {
     "package": "gtrellis"
   },
   {
@@ -47,8 +50,5 @@
   },
   {
     "package": "simplifyEnrichment"
-  },
-  {
-    "package": "EnrichedHeatmap"
   }
 ]
