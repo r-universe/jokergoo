@@ -18,6 +18,11 @@
 	url = https://github.com/jokergoo/circlize
 	shallow = true
 	registered = true
+[submodule "colorRamp2"]
+	path = colorRamp2
+	url = https://github.com/jokergoo/colorramp2
+	shallow = true
+	registered = true
 [submodule "GetoptLong"]
 	path = GetoptLong
 	url = https://github.com/jokergoo/getoptlong

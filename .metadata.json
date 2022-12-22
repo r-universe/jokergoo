@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "colorRamp2",
+    "oncran": true
+  },
+  {
     "package": "GetoptLong",
     "oncran": true
   },
