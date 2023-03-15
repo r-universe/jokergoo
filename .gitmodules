@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spiralize"]
+	path = spiralize
+	url = https://github.com/jokergoo/spiralize
+	shallow = true
+	registered = true
+[submodule "circlize"]
+	path = circlize
+	url = https://github.com/jokergoo/circlize
+	shallow = true
+	registered = true
+[submodule "GetoptLong"]
+	path = GetoptLong
+	url = https://github.com/jokergoo/getoptlong
+	shallow = true
+	registered = true
 [submodule "bsub"]
 	path = bsub
 	url = https://github.com/jokergoo/bsub
@@ -13,39 +28,9 @@
 	url = https://github.com/jokergoo/cepa
 	shallow = true
 	registered = true
-[submodule "circlize"]
-	path = circlize
-	url = https://github.com/jokergoo/circlize
-	shallow = true
-	registered = true
-[submodule "colorRamp2"]
-	path = colorRamp2
-	url = https://github.com/jokergoo/colorramp2
-	shallow = true
-	registered = true
-[submodule "GetoptLong"]
-	path = GetoptLong
-	url = https://github.com/jokergoo/getoptlong
-	shallow = true
-	registered = true
-[submodule "GlobalOptions"]
-	path = GlobalOptions
-	url = https://github.com/jokergoo/globaloptions
-	shallow = true
-	registered = true
-[submodule "pkgndep"]
-	path = pkgndep
-	url = https://github.com/jokergoo/pkgndep
-	shallow = true
-	registered = true
-[submodule "spiralize"]
-	path = spiralize
-	url = https://github.com/jokergoo/spiralize
-	shallow = true
-	registered = true
-[submodule "cola"]
-	path = cola
-	url = https://github.com/jokergoo/cola
+[submodule "InteractiveComplexHeatmap"]
+	path = InteractiveComplexHeatmap
+	url = https://github.com/jokergoo/interactivecomplexheatmap
 	shallow = true
 	registered = true
 [submodule "ComplexHeatmap"]
@@ -53,14 +38,14 @@
 	url = https://github.com/jokergoo/complexheatmap
 	shallow = true
 	registered = true
-[submodule "EnrichedHeatmap"]
-	path = EnrichedHeatmap
-	url = https://github.com/jokergoo/enrichedheatmap
+[submodule "simplifyEnrichment"]
+	path = simplifyEnrichment
+	url = https://github.com/jokergoo/simplifyenrichment
 	shallow = true
 	registered = true
-[submodule "gtrellis"]
-	path = gtrellis
-	url = https://github.com/jokergoo/gtrellis
+[submodule "colorRamp2"]
+	path = colorRamp2
+	url = https://github.com/jokergoo/colorramp2
 	shallow = true
 	registered = true
 [submodule "HilbertCurve"]
@@ -68,9 +53,14 @@
 	url = https://github.com/jokergoo/hilbertcurve
 	shallow = true
 	registered = true
-[submodule "InteractiveComplexHeatmap"]
-	path = InteractiveComplexHeatmap
-	url = https://github.com/jokergoo/interactivecomplexheatmap
+[submodule "pkgndep"]
+	path = pkgndep
+	url = https://github.com/jokergoo/pkgndep
+	shallow = true
+	registered = true
+[submodule "gtrellis"]
+	path = gtrellis
+	url = https://github.com/jokergoo/gtrellis
 	shallow = true
 	registered = true
 [submodule "rGREAT"]
@@ -78,8 +68,18 @@
 	url = https://github.com/jokergoo/rgreat
 	shallow = true
 	registered = true
-[submodule "simplifyEnrichment"]
-	path = simplifyEnrichment
-	url = https://github.com/jokergoo/simplifyenrichment
+[submodule "GlobalOptions"]
+	path = GlobalOptions
+	url = https://github.com/jokergoo/globaloptions
+	shallow = true
+	registered = true
+[submodule "cola"]
+	path = cola
+	url = https://github.com/jokergoo/cola
+	shallow = true
+	registered = true
+[submodule "EnrichedHeatmap"]
+	path = EnrichedHeatmap
+	url = https://github.com/jokergoo/enrichedheatmap
 	shallow = true
 	registered = true

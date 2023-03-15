@@ -1,5 +1,17 @@
 [
   {
+    "package": "spiralize",
+    "oncran": true
+  },
+  {
+    "package": "circlize",
+    "oncran": true
+  },
+  {
+    "package": "GetoptLong",
+    "oncran": true
+  },
+  {
     "package": "bsub",
     "oncran": true
   },
@@ -8,51 +20,39 @@
     "oncran": true
   },
   {
-    "package": "circlize",
-    "oncran": true
+    "package": "InteractiveComplexHeatmap"
+  },
+  {
+    "package": "ComplexHeatmap"
+  },
+  {
+    "package": "simplifyEnrichment"
   },
   {
     "package": "colorRamp2",
     "oncran": true
   },
   {
-    "package": "GetoptLong",
-    "oncran": true
-  },
-  {
-    "package": "GlobalOptions",
-    "oncran": true
+    "package": "HilbertCurve"
   },
   {
     "package": "pkgndep",
     "oncran": true
   },
   {
-    "package": "spiralize",
+    "package": "gtrellis"
+  },
+  {
+    "package": "rGREAT"
+  },
+  {
+    "package": "GlobalOptions",
     "oncran": true
   },
   {
     "package": "cola"
   },
   {
-    "package": "ComplexHeatmap"
-  },
-  {
     "package": "EnrichedHeatmap"
-  },
-  {
-    "package": "gtrellis"
-  },
-  {
-    "package": "HilbertCurve"
-  },
-  {
-    "package": "InteractiveComplexHeatmap"
-  },
-  {
-    "package": "rGREAT"
-  },
-  {
-    "package": "simplifyEnrichment"
   }
 ]
