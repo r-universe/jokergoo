@@ -2,21 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bsub"]
-	path = bsub
-	url = https://github.com/jokergoo/bsub
 [submodule "CePa"]
 	path = CePa
 	url = https://github.com/jokergoo/cepa
-[submodule "circlize"]
-	path = circlize
-	url = https://github.com/jokergoo/circlize
-[submodule "cola"]
-	path = cola
-	url = https://github.com/jokergoo/cola
-[submodule "colorRamp2"]
-	path = colorRamp2
-	url = https://github.com/jokergoo/colorramp2
 [submodule "ComplexHeatmap"]
 	path = ComplexHeatmap
 	url = https://github.com/jokergoo/complexheatmap
@@ -29,15 +17,27 @@
 [submodule "GlobalOptions"]
 	path = GlobalOptions
 	url = https://github.com/jokergoo/globaloptions
-[submodule "gtrellis"]
-	path = gtrellis
-	url = https://github.com/jokergoo/gtrellis
 [submodule "HilbertCurve"]
 	path = HilbertCurve
 	url = https://github.com/jokergoo/hilbertcurve
 [submodule "InteractiveComplexHeatmap"]
 	path = InteractiveComplexHeatmap
 	url = https://github.com/jokergoo/interactivecomplexheatmap
+[submodule "bsub"]
+	path = bsub
+	url = https://github.com/jokergoo/bsub
+[submodule "circlize"]
+	path = circlize
+	url = https://github.com/jokergoo/circlize
+[submodule "cola"]
+	path = cola
+	url = https://github.com/jokergoo/cola
+[submodule "colorRamp2"]
+	path = colorRamp2
+	url = https://github.com/jokergoo/colorramp2
+[submodule "gtrellis"]
+	path = gtrellis
+	url = https://github.com/jokergoo/gtrellis
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/jokergoo/pkgndep
