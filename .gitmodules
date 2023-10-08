@@ -44,6 +44,9 @@
 [submodule "rGREAT"]
 	path = rGREAT
 	url = https://github.com/jokergoo/rgreat
+[submodule "simona"]
+	path = simona
+	url = https://github.com/jokergoo/simona
 [submodule "simplifyEnrichment"]
 	path = simplifyEnrichment
 	url = https://github.com/jokergoo/simplifyenrichment
