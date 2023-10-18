@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BioCartaImage"]
+	path = BioCartaImage
+	url = https://github.com/jokergoo/biocartaimage
 [submodule "CePa"]
 	path = CePa
 	url = https://github.com/jokergoo/cepa
