@@ -2,57 +2,27 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BioCartaImage"]
-	path = BioCartaImage
-	url = https://github.com/jokergoo/biocartaimage
 [submodule "CePa"]
 	path = CePa
 	url = https://github.com/jokergoo/cepa
-[submodule "ComplexHeatmap"]
-	path = ComplexHeatmap
-	url = https://github.com/jokergoo/complexheatmap
-[submodule "EnrichedHeatmap"]
-	path = EnrichedHeatmap
-	url = https://github.com/jokergoo/enrichedheatmap
 [submodule "GetoptLong"]
 	path = GetoptLong
 	url = https://github.com/jokergoo/getoptlong
 [submodule "GlobalOptions"]
 	path = GlobalOptions
 	url = https://github.com/jokergoo/globaloptions
-[submodule "HilbertCurve"]
-	path = HilbertCurve
-	url = https://github.com/jokergoo/hilbertcurve
-[submodule "InteractiveComplexHeatmap"]
-	path = InteractiveComplexHeatmap
-	url = https://github.com/jokergoo/interactivecomplexheatmap
 [submodule "bsub"]
 	path = bsub
 	url = https://github.com/jokergoo/bsub
 [submodule "circlize"]
 	path = circlize
 	url = https://github.com/jokergoo/circlize
-[submodule "cola"]
-	path = cola
-	url = https://github.com/jokergoo/cola
 [submodule "colorRamp2"]
 	path = colorRamp2
 	url = https://github.com/jokergoo/colorramp2
-[submodule "gtrellis"]
-	path = gtrellis
-	url = https://github.com/jokergoo/gtrellis
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/jokergoo/pkgndep
-[submodule "rGREAT"]
-	path = rGREAT
-	url = https://github.com/jokergoo/rgreat
-[submodule "simona"]
-	path = simona
-	url = https://github.com/jokergoo/simona
-[submodule "simplifyEnrichment"]
-	path = simplifyEnrichment
-	url = https://github.com/jokergoo/simplifyenrichment
 [submodule "spiralize"]
 	path = spiralize
 	url = https://github.com/jokergoo/spiralize
