@@ -23,6 +23,9 @@
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/jokergoo/pkgndep
+[submodule "sfcurve"]
+	path = sfcurve
+	url = https://github.com/jokergoo/sfcurve
 [submodule "spiralize"]
 	path = spiralize
 	url = https://github.com/jokergoo/spiralize
