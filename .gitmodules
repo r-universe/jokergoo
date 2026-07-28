@@ -20,6 +20,9 @@
 [submodule "colorRamp2"]
 	path = colorRamp2
 	url = https://github.com/jokergoo/colorramp2
+[submodule "hashtable"]
+	path = hashtable
+	url = https://github.com/jokergoo/hashtable
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/jokergoo/pkgndep
